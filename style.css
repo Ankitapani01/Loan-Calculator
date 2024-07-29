@@ -1,0 +1,39 @@
+body{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    background-image: url("images/back.jpg");
+    background-repeat:no-repeat;
+    background-size: cover;
+    background-position:center;
+    height: 100vh;
+    font-family: 'Karla', sans-serif;
+    
+}
+.card{  
+    margin: 4% auto;
+
+}
+
+.card h1{
+    text-align: center;
+    margin-bottom: 6%;
+}
+
+#submit-form button{
+    margin-top: 3%;
+}
+
+#results{
+    margin-top: 6%;
+}
+
+#gif-loader{
+    display: inline-block;
+    margin: 0 auto;
+}
+
+.alert{
+    margin: 0 auto 4% auto;
+    width: 100%;
+}
